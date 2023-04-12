@@ -1,0 +1,1 @@
+Feature: test myHaui application
